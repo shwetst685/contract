@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(203, 248, 203);
+    text-align: center;
+}
+.cloud1{
+    width:15%;
+    position: absolute;
+    left: 200px; bottom:400px
+}
+.cloud2{
+    width:15%;
+    position: absolute;
+    right:170px; bottom:50px;
+}
+h1{
+    font-size:6em;
+    font-family: 'Kaushan Script', cursive;
+}
+.hello{
+    border-radius: 100%;
+}
+hr{
+    border-style:outset;
+}
+.info{
+    font-size:xx-large;
+}
+.profile{
+    width: 25%;
+}
+
+.s_header{
+    font-size: xx-large;
+}
+span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
