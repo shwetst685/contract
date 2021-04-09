@@ -6,12 +6,12 @@ body{
 .cloud1{
     width:15%;
     position: absolute;
-    left: 11rem; bottom:25em;
+    left: 11rem; bottom:25rem;
 }
 .cloud2{
     width:15%;
     position: absolute;
-    right:10em; bottom:3em;
+    right:10rem; bottom:3rem;
 }
 .contact {
     background: #11999E;
@@ -54,27 +54,28 @@ body{
     border-radius: 20px;
     text-decoration: none;
  }
+ .footer{
+    
+    margin-top:0px;
+    padding-top: 1.5rem;
+}
  header{
      margin-top:0px;
      background-color:#EAF6F6;
      padding-top:100px;
  }
-.footer{
-    
-    margin-top:0px;
-    padding-top: 1.5rem;
+
+.hobbies-image{
+    float:right;
 }
+
 h1{ margin:0px auto 0px;
     font-size:6em;
     font-family: 'Kaushan Script', cursive;
     color:#66BFBF;
 }
-.my_image{
-    border-radius: 50%;
-    
-}
 .hello{
-    width:33%;
+    width:50%;
     
 }
 hr{
@@ -83,12 +84,6 @@ hr{
     border-bottom-width: 0.5rem;
     border-bottom-color:  #d7eeee;
     margin-top:5rem;
-}
-.my-skills{
-    width:50%
-}
-.my-hobbies{
-    width:50%;
 }
 .info{
     font-size:1.4rem;
@@ -101,6 +96,18 @@ hr{
 img{
     width:25%;
 }
+.my_image{
+    border-radius: 50%;
+    
+}
+
+.my-skills{
+    width:50%
+}
+.my-hobbies{
+    width:50%;
+}
+
 .profile{
     width: 25%;
 }
@@ -123,9 +130,8 @@ img{
 .skill-image{
     float:left;
 }
-.hobbies-image{
-    float:right;
-}
+
+
 section{
     margin:0px auto 0px auto;
 }
